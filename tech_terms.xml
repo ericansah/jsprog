@@ -1,0 +1,235 @@
+<TECHTERMS>
+        
+            <WORD>
+                <TITLE>Asynchronous</TITLE>
+                <MEANING>Asynchronous programming is a technique that enables your program to start a 
+                potentially long-running task and still be able to be responsive to other events while that 
+                task runs, rather than having to wait until that task has finished. Once that task has finished, 
+                your program is presented with the result.
+                </MEANING>
+            </WORD>
+        
+
+    
+            <WORD>
+                <TITLE>Boolean</TITLE>
+                <MEANING>In computer programming, a boolean value is one that can either be TRUE or FALSE. 
+                If you need to know “yes” or “no” about something, then you would want to use the 
+                boolean function. It sounds extremely simple, but booleans are used all the time in 
+                programming, and they are extremely useful.
+                </MEANING>
+            </WORD>
+        
+
+         
+            <WORD>
+                <TITLE>Concatenate</TITLE>
+                <MEANING>It is often necessary to join text strings together in a program to make a new text string. 
+                This is called concatenation.
+                </MEANING>
+            </WORD>
+    
+
+        
+        
+            <WORD>
+                <TITLE>Declaration</TITLE>
+                <MEANING> In computer programming, a declaration determines the name and data type of a variable or other element. 
+                Programmers declare variables by writing the name of the variable into code, along with any data type indicators 
+                and other required syntax.
+                </MEANING>
+            </WORD>
+        
+
+        
+            <WORD>
+                <TITLE>Execution</TITLE>
+                <MEANING>Execution in computer and software engineering is the process by which a computer or virtual 
+                machine reads and acts on the instructions of a computer program. Each instruction of a program is a 
+                description of a particular action which must be carried out, in order for a specific problem to be solved.
+                </MEANING>
+            </WORD>
+        
+
+          
+            <WORD>
+                <TITLE>Function</TITLE>
+                <MEANING>A function is simply a “block" of code that you can use over and over again, rather than writing 
+                it out multiple times. Functions enable programmers to break down or decompose a problem into smaller chunks, 
+                each of which performs a particular task.
+                </MEANING>
+            </WORD>
+        
+
+
+          <G>
+            <WORD>
+                <TITLE>Graphics</TITLE>
+                <MEANING>Typically, the term computer graphics refers to several different things: the representation and 
+                manipulation of image data by a computer. the various technologies used to create and manipulate images. 
+                </MEANING>
+            </WORD>
+          </G>
+
+          <H>
+            <WORD>
+                <TITLE>Hoisting</TITLE>
+                <MEANING>JavaScript Hoisting refers to the process whereby the interpreter appears to move the declaration of 
+                functions, variables or classes to the top of their scope, prior to execution of the code.
+                </MEANING>
+            </WORD>
+          </H>
+
+          <I>
+            <WORD>
+                <TITLE>Interpreted</TITLE>
+                <MEANING>In an interpreted language, the source code is not directly translated by the target machine. Instead, 
+                a different program, aka the interpreter, reads and executes the code.
+                </MEANING>
+            </WORD>
+        </I>
+
+          <J>
+            <WORD>
+                <TITLE>JSON</TITLE>
+                <MEANING>It is a text-based way of representing JavaScript object literals, arrays, and scalar data. 
+                JSON is relatively easy to read and write, while also easy for software to parse and generate. 
+                It is often used for serializing structured data and exchanging it over a network, typically between 
+                a server and web applications.
+                </MEANING>
+            </WORD>
+        </J>
+
+
+          <K>
+            <WORD>
+                <TITLE>Key</TITLE>
+                <MEANING>
+                A key is a piece of information required to retrieve some data.
+                </MEANING>
+            </WORD>
+            <WORD>
+                <TITLE>Keyword</TITLE>
+                <MEANING>Keywords are predefined, reserved words used in programming that have special meanings to the compiler. 
+                Keywords are part of the syntax and they cannot be used as an identifier. 
+                </MEANING>
+            </WORD>
+          </K>
+
+          <L>
+            <WORD>
+                <TITLE>Literals</TITLE>
+                <MEANING>Constant values that are typed in the program as a part of the source code are called literals. 
+                Literals can be of any of the basic data types and can be divided into Integer Numerals, Floating-Point Numerals, 
+                Characters, Strings, and Boolean Values.</MEANING>
+            </WORD>
+        </L>
+
+
+          <M>
+            <WORD>
+                <TITLE>Memory</TITLE>
+                <MEANING>Memory refers to the location of short-term data, while storage refers to the location of data 
+                stored on a long-term basis. Memory is most often referred to as the primary storage on a computer, such 
+                as RAM. Memory is also where information is processed. It enables users to access data that is stored for 
+                a short time.</MEANING>
+            </WORD>
+        </M>
+
+
+          <N>
+            <WORD>
+                <TITLE>Nesting</TITLE>
+                <MEANING>Nesting occurs when one programming construct is included within another. Nesting allows for powerful, 
+                yet simple programming. It reduces the amount of code needed, while making it simple for a programmer to 
+                debug and edit. Different types of construct can be nested within another.
+                </MEANING>
+            </WORD>
+        </N>
+
+          <O>
+            <WORD>
+                <TITLE>Object Literal</TITLE>
+                <MEANING>An object literal is a list of zero or more pairs of property names and associated values of an object, 
+                enclosed in curly braces ( {} ).
+                </MEANING>
+            </WORD>
+        </O>
+<!--
+          <P>
+            <WORD>
+                <TITLE>Empire Burlesque</TITLE>
+                <MEANING>Bob Dylan</ARTIST>
+            </WORD>
+        </P>
+
+          <Q>
+            <WORD>
+                <TITLE>Empire Burlesque</TITLE>
+                <MEANING>Bob Dylan</ARTIST>
+            </WORD>
+        </Q>
+
+          <R>
+            <WORD>
+                <TITLE>Empire Burlesque</TITLE>
+                <MEANING>Bob Dylan</ARTIST>
+            </WORD>
+        </R>
+
+          <S>
+            <WORD>
+                <TITLE>Empire Burlesque</TITLE>
+                <MEANING>Bob Dylan</ARTIST>
+            </WORD>
+        </S>
+
+          <T>
+            <WORD>
+                <TITLE>Empire Burlesque</TITLE>
+                <MEANING>Bob Dylan</ARTIST>
+            </WORD>
+        </T>
+
+          <U>
+            <WORD>
+                <TITLE>Empire Burlesque</TITLE>
+                <MEANING>Bob Dylan</ARTIST>
+            </WORD>
+        </U>
+
+          <V>
+            <WORD>
+                <TITLE>Empire Burlesque</TITLE>
+                <MEANING>Bob Dylan</ARTIST>
+            </WORD>
+        </V>
+
+          <W>
+            <WORD>
+                <TITLE>Empire Burlesque</TITLE>
+                <MEANING>Bob Dylan</ARTIST>
+            </WORD>
+        </W>
+
+          <X>
+            <WORD>
+                <TITLE>Empire Burlesque</TITLE>
+                <MEANING>Bob Dylan</ARTIST>
+            </WORD>
+        </X>
+
+          <Y>
+            <WORD>
+                <TITLE>Empire Burlesque</TITLE>
+                <MEANING>Bob Dylan</ARTIST>
+            </WORD>
+        </Y>
+
+          <Z>
+            <WORD>
+                <TITLE>Empire Burlesque</TITLE>
+                <MEANING>Bob Dylan</ARTIST>
+            </WORD>
+        </Z> -->  
+</TECHTERMS>
